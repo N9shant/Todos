@@ -1,0 +1,14 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+.Login {
+  max-width: 500px;
+  /* border: 2px solid red; */
+  margin-top: 10%;
+  padding: 15px;
+  box-shadow: rgba(211, 121, 121, 0.548) 0px 5px 15px;
+  border-radius: 15px;
+}
